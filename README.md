@@ -10,3 +10,10 @@ This project is written in python 3.6. Install the additional requirements using
   * Activate the environment: `source .venv/bin/activate`
 * Install requirements
   * `python3 -m pip install -r requirements.txt --user`
+
+
+## Scraping Stuff
+
+This project uses the `scrapy` library to implement basic web-scraping functionality. In order to run the spider and parse the set website, run the following command:
+
+`scrapy runspider scraper.py`
