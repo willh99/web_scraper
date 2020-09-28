@@ -1,3 +1,6 @@
+# Where we put the data
+data/
+
 # VS Code stuff
 .vscode
 
