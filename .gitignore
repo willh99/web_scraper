@@ -1,5 +1,7 @@
 # Where we put the data
 data/
+*.csv
+reports.json
 
 # VS Code stuff
 .vscode
